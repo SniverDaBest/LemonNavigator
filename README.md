@@ -1,4 +1,4 @@
-# LemonNavigator
+# Lemon Navigator
 Lemon Navigator (LNav) is a web browser made with Python and QT. It has many features that your average browser has, but also has some missing features.
 
 # Pros
